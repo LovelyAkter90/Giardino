@@ -1,0 +1,432 @@
+@media(min-width:1200px) and (max-width:1399px){
+    .banner-content h1::before {
+        left: 80px;
+        
+    }
+    .banner-content h1::after {
+        right:-20px;
+    }
+    .about-head::before {
+        left: 160px;
+    }
+    .about-head::after {
+        right:58px;
+    }
+    .service-main-img {
+        top: 50%;
+        left: 50%;
+        animation: none;
+        -webkit-animation: none;
+    }
+    .fa-quote-left {
+      top:100px;
+        left: 90px;
+        font-size: 20px;
+         }
+     .fa-quote-right {
+	bottom: 5px;
+	right: 150px;
+	font-size: 20px;
+     }
+}
+@media(min-width:992px) and (max-width:1199px){
+    .banner-content h1::before {
+        left: 40px;
+    }
+    .banner-content h1::after {
+        right: -60px;
+    }
+    .banner-content p {
+        padding: 0 0px;
+        padding-bottom: 35px;
+    }
+    .about-head::before {
+        left: 115px;
+    }
+    .about-head::after {
+        right: 15px;
+    }
+    .service-main-img {
+        top: 50%;
+        left: 50%;
+        animation: none;
+        -webkit-animation: none;
+}
+.fa-quote-left {
+	font-size: 20px;
+}
+.fa-quote-right {
+
+	bottom: 5px;
+	right: 180px;
+	font-size: 20px;
+}
+.f1 p {
+	 margin: 0;
+	
+}
+.f2 {
+	padding-left: 40px;
+}
+.footer-info {
+	padding-top: 60px;
+}
+.f3 {
+	padding-top: 34px;
+}
+.form-text2 {
+	padding-top: 55px;
+}
+.text3-info h5 {
+	margin-bottom: 20px;
+}
+.text3-time p {
+	margin-bottom: 14px;
+}
+.brand-logo {
+	
+	text-align: center;
+}
+.brand-item {
+	margin: 0 5px;
+}
+  
+}
+@media(min-width:768px) and (max-width:991.98px){
+    .banner-content h1::before {
+      
+        left: 160px;
+    }
+    .banner-content h1::after {
+      
+        right: 55px;
+    }
+    .navbar-toggler-icon {
+        display: none;
+    }
+    .banner-content p {
+        padding: 0 120px;
+        padding-bottom: 35px;
+    }
+    .about-head::before {
+        left: 230px;
+    }
+    .about-head::after {
+        right:130px;
+    }
+    .service-main-img img{
+        display: none;
+    }
+    .service-info p {
+        padding: 0 200px;
+    }
+    .reserv-info p {
+        padding: 0 50px;
+        padding-bottom: 20px;
+    }
+    .fa-quote-left {
+       
+        left: 10px;
+        font-size: 20px;
+    }
+    .fa-quote-right {
+     
+        bottom: 15px;
+        right: 100px;
+        font-size: 20px;
+    }
+    .social-icon-f {
+        margin-top: 40px;
+        text-align: center;
+    }
+    .brand-logo {
+        padding-top: 20px;
+        text-align: center;
+    }
+
+}
+@media(min-width:576px) and (max-width:767.98px){
+    .navbar-brand img {
+      text-align: left;
+    }
+    .navbar-brand {
+        margin-top: -10px;
+    }
+    .navbar.navbar-expand-lg{
+        padding-bottom: 0;
+        z-index: 999999999;
+        position: static;
+        background-color: rgba(20, 2, 2, 0.986);
+    }
+    .navbar-toggler icon{
+        display: none;
+    }
+   .bg{
+       display: none;
+   }
+    .sidebar {
+        background-color: black;
+        
+    
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        background-color: black;
+        text-align: center;
+    }
+    .side-click {
+        color: rgb(128, 12, 12);
+    }
+    .logo{
+        display: none;
+    }
+    .banner-content h1::before{
+       left:70px;
+    }
+    .banner-content h1::after{
+        right:-30px;
+    }
+    .banner-content p {
+      
+        padding: 0 0px;
+        padding-bottom: 35px;
+       
+    }
+    .banner-content a{
+        padding: 15px;
+        font-size: 18px;
+    }
+    .about-head::before {
+        left: 140px;
+    }
+    .about-head::after{
+        right: 45px;
+    }
+    .service-main-img img{
+        display: none;
+    }
+    .service-info p {
+        padding: 0 60px;
+    }
+    .counter-item h3 {
+        font-size: 35px;
+    
+    }
+    .counter-item p {
+
+        font-size: 20px;
+
+    }
+    .reserv-info p {
+
+        padding: 0 20px;
+    }
+    .fa-quote-left {
+     
+        left: 0px;
+        font-size: 20px;
+    }
+    .fa-quote-right {
+     
+        right:20px;
+        bottom:0;
+        font-size: 20px;
+    }
+    .f1{
+       text-align: left;
+    }
+    .f2 {
+       text-align: right;  
+    }
+    .footer-info h4 {
+        padding-top: 20px;
+        text-align: center;
+    }
+    .f-icon i {
+      
+        margin: 44px 0;
+    }
+    .f-info h5 {
+        margin: 44px 0;
+        padding-left: 25px;
+        text-align: center;
+        line-height: 1;
+    }
+    .form-info-2{
+        text-align: center;
+    }
+    .social-icon-f {
+        
+        text-align: center;
+    }
+}
+@media(max-width:575.98px){
+    .navbar-brand {
+        margin-top: -10px;
+    }
+    .navbar.navbar-expand-lg{
+       
+        background-color: rgba(0, 0, 0, 0.747);
+    
+        padding-bottom: 0;
+        z-index: 999999999;
+        position: fixed;
+    }
+    .navbar-toggler icon{
+        display: none;
+    }
+   .bg{
+       display: none;
+   }
+    .sidebar {
+        background-color: black;
+        
+    
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        background-color: black;
+        text-align: center;
+    }
+    .side-click {
+        color: rgb(128, 12, 12);
+    }
+    .logo{
+        display: none;
+    }
+    .banner-content h5 {
+        font-size: 18px;
+        font-weight: 400;
+        color: #ffff;
+        padding-bottom: 15px;
+       line-height: 1;
+    }
+    .banner-content h1::before{
+        display: none;
+    }
+    .banner-content h1::after{
+        display: none;
+    }
+    .banner-content p{
+        padding: 0 5px;
+        margin-bottom: 25px;
+    }
+    .banner-content a{
+        padding: 10px;
+        font-size: 12px;
+    }
+    .about-head::before{
+        display: none;
+    }
+    .about-head::after{
+        display: none;
+         }
+     .about-info p{
+         padding: 0 5px;
+         padding-bottom: 40px;
+     }  
+     .about-info a.btn2{
+        padding: 10px;
+        font-size: 12px;
+     }  
+     .team-head::before{
+         display: none;
+     }
+     .team-head::after{
+        display: none;
+    }
+    
+    #service {
+        padding-top: 30px;
+    }
+    .service-head::before{
+        display: none;
+    }
+    .service-head::after{
+        display: none;
+    }
+    .service-main-img{
+        display: none;
+    }
+    .counter-item h3 {
+        font-size: 25px;
+    }
+    .counter-item p {
+        font-size: 18px;
+        text-align: center;
+    }
+    #gallery {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .menu {
+        padding-top: 50px;
+    }
+    .menu-head::before{
+        display: none;
+    }
+    .menu-head::after{
+        display: none;
+    }
+
+    #blog{
+        padding-top: 50px;
+        padding-bottom: 60px;
+    }
+    .blog-btn a{
+        border-bottom: none;
+    }
+    .fa-quote-left{
+      left:5px;
+      font-size: 15px;
+
+    }
+    .fa-quote-right{
+        right:5px;
+        font-size: 15px;
+        bottom: -5px;
+      }
+      .reserv-info p {
+        
+        padding: 0 25px;
+       
+      }
+        #form {
+            padding-top: 50px;
+            padding-bottom: 70px;
+        }
+        .f2 {
+         padding-left:10px;
+        }
+        .f1 p{
+            margin:0;
+        }
+        .social-icon-f {
+            
+            text-align: center;
+        }
+        .brand-item {
+           
+            margin: 0;
+        }
+        .brand-item img {
+            width: 40px;
+            height: 40px;
+        }
+        .brand-logo {
+           
+            text-align: center;
+        }
+        .back-to-top {
+            bottom:0;
+            left: 0;
+        }
+        .back-to-top i {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            line-height: 40px;
+            text-align: center;
+        }
+    
+}
+
+
